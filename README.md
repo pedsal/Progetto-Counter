@@ -1,5 +1,5 @@
 # Progetto Counter
- Secondo progetto di Strat2Impact su Javascrit Basic
+ Secondo progetto di Strat2Impact su JavaScript Basic
  
  ## Tecnologie Usate :
  * HTML
